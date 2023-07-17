@@ -13,6 +13,6 @@ sentencepiece==0.1.97
 six==1.16.0
 sseclient==0.0.27
 torch==2.0.0
-transformers==4.27.1
+transformers==4.30.0
 pyjwt==2.4.0
 cryptography==37.0.4
